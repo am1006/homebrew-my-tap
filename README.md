@@ -1,4 +1,6 @@
-# Am1006 Mybrewtap
+# am1006's brew tap
+
+> It's May 17th 2023. Nerd font 3.0 broke my terminal look. So I need to fix it by creating my own tap.
 
 ## How do I install these formulae?
 
