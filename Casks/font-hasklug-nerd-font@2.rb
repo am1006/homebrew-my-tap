@@ -1,4 +1,4 @@
-cask "font-hasklug-nerd-font" do
+cask "font-hasklug-nerd-font@2" do
   version "2.3.3"
   sha256 "3f4417edcd5b96f48de021a315e832f254b7d41238947d0190384ab90a04af76"
 
